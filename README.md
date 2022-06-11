@@ -1,1 +1,1 @@
-# Projects and reports done in M.Tech.
+# Projects details and reports done in M.Tech.
